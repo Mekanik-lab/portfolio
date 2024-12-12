@@ -61,12 +61,11 @@ body {
     left: 0;
     transform: translateX(100%);
     transition: all 0.3s ease-in-out;
-    margin: 1rem auto 2rem auto;
+    margin: 0rem auto 2rem auto;
 }
 
 .menu.active {
-    transform: translateX(0%);
-    width: 100vw;
+    transform: translateX(0%);
 }
 
 .burger {
