@@ -61,7 +61,7 @@ body {
     left: 0;
     transform: translateX(100%);
     transition: all 0.3s ease-in-out;
-    margin: 0rem auto 2rem auto;
+    gap: 10rem;
 }
 
 .menu.active {
